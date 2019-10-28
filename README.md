@@ -1,8 +1,8 @@
 # INFINITE FLOW
 
-### My Role
-Team Lead
-App Dev Lead
+## My Role
+##### Team Lead 
+##### App Dev Lead
 
 ## Description
 Our endless pattern matching game (infinity flow) will allow the players
